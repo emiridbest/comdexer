@@ -20,9 +20,6 @@ export function App(): JSX.Element {
               <ProtectedSwitch authPath={pathLogin}>
                 <Route exact path={pathOperationResult} component={OperationResult} />
               </ProtectedSwitch>
-              <ProtectedSwitch authPath={pathLogin}>
-  <Route exact path={pathBalance} component={Balance}/>
-</ProtectedSwitch>
             </Switch>
           </Router>
         </AccountProvider>

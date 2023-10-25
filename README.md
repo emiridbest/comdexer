@@ -49,6 +49,3 @@ dApp that allows the user to send CW20 tokens to an address.
 [[deployment]](https://dapps.cosmwasm.com/stakes)
 
 dApp for staking derivatives that allows the user to bond and unbond CW20 tokens from a validator.
-# comdexer
-# comdexer
-# comdexer
