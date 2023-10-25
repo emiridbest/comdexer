@@ -1,51 +1,33 @@
-# dApps
+Innovation is the engine of progress, and countless groundbreaking ideas remain unrealized due to a lack of financial support. Introducing Comdexer, a dynamic and transformative crowdfunding platform designed to bring these brilliant ideas to life. At Comdexer, we believe that the power to spark change and innovation lies within a community of passionate backers.
 
-A lerna monorepo with sample dApps for CosmWasm contracts that use CosmJS frontend SDK and the local logic and design packages.
+Key Features:
 
-## Packages
+    Empowering Innovators: Comdexer provides a platform where inventors, creators, and innovators from various fields can showcase their projects and ideas. It empowers these visionaries by connecting them with a global network of backers who share their passion.
 
-### Logic
+    Diverse Project Categories: Comdexer accommodates a wide range of project categories, from tech startups and eco-conscious initiatives to artistic endeavors and social impact projects. This diversity fosters a rich ecosystem of innovation.
 
-[[code]](https://github.com/CosmWasm/dApps/tree/master/packages/logic)
+    Easy Project Submission: Innovators can easily submit their projects to V, detailing their vision, objectives, and funding requirements. The platform offers user-friendly tools and templates to streamline the project creation process.
 
-Library with logic utilities that is used as a dependency in the rest of the packages.
+    Transparent Funding Goals: Comdexer promotes transparency by clearly stating each project's funding goal, timeline, and progress. Backers can confidently support projects knowing the intended outcomes and milestones.
 
-### Design
+    Backer Engagement: Comdexer encourages backers to engage with project creators through comments, questions, and feedback. This direct interaction builds a supportive and enthusiastic community around each project.
 
-[[code]](https://github.com/CosmWasm/dApps/tree/master/packages/design)
+    Flexible Funding Models: Comdexer offers various funding models, including all-or-nothing and keep-it-all options. Project creators can choose the model that best suits their needs, providing flexibility for projects in different stages of development.
 
-Library with theming utilities and reusable React components that is used as a dependency in the dApps.
+    Secure Transactions: The platform ensures secure and efficient financial transactions, providing peace of mind to both project creators and backers. Payments are handled through trusted third-party payment gateways.
 
-### Create React App template
+    Rewards and Incentives: Comdexer allows project creators to offer rewards or incentives to backers. These rewards can include early access to products, limited-edition merchandise, or unique experiences, adding an extra layer of excitement for supporters.
 
-[[code]](https://github.com/CosmWasm/dApps/tree/master/packages/cra-template)
+    Trust and Verification: Comdexer implements a robust verification process for project creators to establish their credibility and legitimacy. This builds trust among backers, reducing the risk of fraudulent campaigns.
 
-Custom template for creating a React app preloaded with the logic and design packages.
+    Social Sharing: The platform integrates social sharing features, making it easy for backers and creators to promote projects on various social media platforms, expanding their reach and impact.
 
-### Name service
+Why SparkFund Matters:
 
-[[code]](https://github.com/CosmWasm/dApps/tree/master/packages/name-service)
-[[deployment]](https://dapps.cosmwasm.com/names)
+SparkFund is more than just a crowdfunding platform; it's a catalyst for progress and a champion for innovation. By bridging the gap between innovative ideas and the resources needed to bring them to life, SparkFund contributes to a future where groundbreaking solutions, art, and social impact initiatives are no longer stifled by financial constraints.
 
-dApp that allows for the purchase and transferral of names in contracts of a configured code ID.
+Support the Future:
 
-### Native wallet
+Join the Comdexer community and become a part of the innovation revolution. Whether you're an innovator seeking to turn your vision into reality or a passionate backer eager to support transformative projects, Comdexer is your launchpad to a brighter and more innovative future.
 
-[[code]](https://github.com/CosmWasm/dApps/tree/master/packages/wallet)
-[[deployment]](https://dapps.cosmwasm.com/wallet)
-
-dApp that allows the user to send native tokens to an address.
-
-### CW20 wallet
-
-[[code]](https://github.com/CosmWasm/dApps/tree/master/packages/cw20-wallet)
-[[deployment]](https://dapps.cosmwasm.com/cw20-wallet)
-
-dApp that allows the user to send CW20 tokens to an address.
-
-### Staking service
-
-[[code]](https://github.com/CosmWasm/dApps/tree/master/packages/staking-service)
-[[deployment]](https://dapps.cosmwasm.com/stakes)
-
-dApp for staking derivatives that allows the user to bond and unbond CW20 tokens from a validator.
+Discover the power of collective action and the limitless potential of crowdfunding. Together, we can ignite innovation and change the world, one project at a time.
