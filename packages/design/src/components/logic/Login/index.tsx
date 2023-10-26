@@ -97,8 +97,8 @@ export function Login({ config, pathAfterLogin, appName, appLogo, ...restProps }
         <img src={appLogo} alt="CosmWasm logo" />
         <WelcomeStack>
           <Typography>
-            <Title level={2}>Hello!</Title>
-            <LightText>Welcome to your {appName}</LightText>
+            <Title level={2}>WELCOME TO COMDEXER!</Title>
+            <LightText>Welcome to your no. 1 Crowdfunding Site</LightText>
             <LightText>Select one of the following options to start:</LightText>
           </Typography>
           {error && <ErrorText>{error}</ErrorText>}
