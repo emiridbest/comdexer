@@ -1,5 +1,9 @@
 ## watch demo https://www.youtube.com/watch?v=vC2emmydV60
-Innovation is the engine of progress, and countless groundbreaking ideas remain unrealized due to a lack of financial support. Introducing Comdexer, a dynamic and transformative crowdfunding platform designed to bring these brilliant ideas to life. At Comdexer, we believe that the power to spark change and innovation lies within a community of passionate backers.
+Innovation is the engine of progress, and countless groundbreaking ideas remain unrealized due to a lack of financial support. 
+
+Introducing Comdexer, a dynamic and transformative crowdfunding platform designed to bring these brilliant ideas to life. 
+
+At Comdexer, we believe that the power to spark change and innovation lies within a community of passionate backers.
 
 Key Features:
 
@@ -23,9 +27,9 @@ Key Features:
 
     Social Sharing: The platform integrates social sharing features, making it easy for backers and creators to promote projects on various social media platforms, expanding their reach and impact.
 
-Why SparkFund Matters:
+Why Comdexer Matters:
 
-SparkFund is more than just a crowdfunding platform; it's a catalyst for progress and a champion for innovation. By bridging the gap between innovative ideas and the resources needed to bring them to life, SparkFund contributes to a future where groundbreaking solutions, art, and social impact initiatives are no longer stifled by financial constraints.
+Comdexer is more than just a crowdfunding platform; it's a catalyst for progress and a champion for innovation. By bridging the gap between innovative ideas and the resources needed to bring them to life, Comdexer contributes to a future where groundbreaking solutions, art, and social impact initiatives are no longer stifled by financial constraints.
 
 Support the Future:
 
