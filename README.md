@@ -1,4 +1,9 @@
 ## watch demo https://www.youtube.com/watch?v=vC2emmydV60
+
+## TO DO
+- Add more styles to the frontend
+  
+
 Innovation is the engine of progress, and countless groundbreaking ideas remain unrealized due to a lack of financial support. 
 
 Introducing Comdexer, a dynamic and transformative crowdfunding platform designed to bring these brilliant ideas to life. 
